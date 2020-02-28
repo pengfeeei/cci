@@ -1,38 +1,0 @@
-cal expression difference ... done.
-output temp_out/s1_AML1_cluster1.txt
-cal Bayes Factor ... done.
-output temp_out/s2_bf_AML1_cluster1.txt
-cal expression difference ... done.
-output temp_out/s1_ALL1_cluster1.txt
-cal Bayes Factor ... done.
-output temp_out/s2_bf_ALL1_cluster1.txt
-cal correlation ... done.
-output temp_out/s3_AML1_cluster1.txt
-cal Bayes Factor ... done.
-output temp_out/s4_bf_AML1_cluster1.txt
-dimension reduction ... 
-cal correlation ... done.
-output temp_out/s3_ALL1_cluster1.txt
-cal Bayes Factor ... done.
-output temp_out/s4_bf_ALL1_cluster1.txt
-dimension reduction ... 
-  |                                                                              |                                                                      |   0%  |                                                                              |==============                                                        |  20%  |                                                                              |============================                                          |  40%  |                                                                              |==========================================                            |  60%  |                                                                              |========================================================              |  80%  |                                                                              |======================================================================| 100%
-  |                                                                              |                                                                      |   0%  |                                                                              |==============                                                        |  20%  |                                                                              |============================                                          |  40%  |                                                                              |==========================================                            |  60%  |                                                                              |========================================================              |  80%  |                                                                              |======================================================================| 100%
-done.
-cal embedding distance ... done.
-output temp_out/s6_AML1_cluster1.txt
-cal Bayes Factor ... done.
-output temp_out/s7_bf_AML1_cluster1.txt
-combine all Bayes Factors ... done.
-output result/score_AML1_cluster1.txt
-plot cell types and abundance with top CCI score on lineage skeleton.
-CCI calculation finished. results could be found in result/ and temp_out/.
-done.
-cal embedding distance ... done.
-output temp_out/s6_ALL1_cluster1.txt
-cal Bayes Factor ... done.
-output temp_out/s7_bf_ALL1_cluster1.txt
-combine all Bayes Factors ... done.
-output result/score_ALL1_cluster1.txt
-plot cell types and abundance with top CCI score on lineage skeleton.
-CCI calculation finished. results could be found in result/ and temp_out/.
