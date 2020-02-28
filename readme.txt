@@ -2,7 +2,7 @@ CCI v1.0 (Counterpart Composite Index) was designed for projecting carcinoma cel
 
 
 ###Installation###
-Please compile cpp codes of CCI by GNU c++, to do this just run the shells
+Please compile cpp codes of CCI by GNU c++, to do this just run shells
 
    bash makefile.sh
 
@@ -16,7 +16,7 @@ Please implement CCI calculation following below steps:
 Reference cells were stored in folder data_ref/ including 4 files as expression matrix (cell as rows and gene as columns), gene list, cell types and identity of each cells as in expression matrix. We provide a comprehensive cell atlas of normal BMMCs here, which could be used for study of hematopoiesis and leukemogenesis.
 
 2.Cluster your target cells
-CCI project cell clusters to reference instead of single cell due to prevalent droplets in scRNA-seq. Please properly cluster your target cells before running CCI.
+CCI projects cell clusters to reference instead of single cell due to prevalent droplets in scRNA-seq. Please properly cluster your target cells before running CCI.
 Target cells are stored in folder data_obj/ with expression matrix files of each sub-cluster. 
 
 3.Run CCI.
