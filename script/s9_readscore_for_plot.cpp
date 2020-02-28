@@ -166,7 +166,8 @@ int main(int argc,char *argv[])
 	for(i=0;i<cell_num;i++)
 	{
 		plot_score[i]=0;
-		if(score_type[0]==ident[i]||score_type[1]==ident[i])plot_score[i]=1;
+		if(score_type[0]==ident[i])plot_score[i]=1;
+		//if(score_type[0]==ident[i]||score_type[1]==ident[i])plot_score[i]=1;
 
 	}
 
