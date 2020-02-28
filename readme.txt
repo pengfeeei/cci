@@ -1,4 +1,4 @@
-CCI v1.0 (Counterpart Composite Index) was designed for projecting carcinoma cells into reference cells, to identify their healthy counterparts that could reveal the subtypes and process of carcinoma cells based on single cell RNA sequencing data (scRNA-seq).
+CCI v1.0 (Counterpart Composite Index) was designed for projecting carcinoma cells into reference cells, to identify their healthy counterparts that could reveal the subtypes and lineage stage of carcinoma cells based on single cell RNA sequencing data (scRNA-seq).
 
 
 ###Installation###
