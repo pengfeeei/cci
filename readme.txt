@@ -20,7 +20,7 @@ CCI projects cell clusters to reference instead of single cell due to prevalent 
 Target cells are stored in folder data_obj/ with expression matrix file of each sub-cluster. 
 
 3.Run CCI
-To calculation CCI score, please simplely run 
+To calculate CCI score, please simplely run 
 
    bash run_cci.sh AML1_cluster1 (toy data in data_obj/) 
 
